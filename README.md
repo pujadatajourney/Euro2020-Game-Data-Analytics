@@ -1,1 +1,3 @@
 # Euro2020-Game-Data-Analytics
+
+Euro 2020 data analytics involves the systematic analysis of statistical data from the UEFA European Championship held in 2021. It encompasses the examination of team and player performance metrics, goal scoring patterns, defensive strategies, and other key aspects of the tournament. Utilizing statistical analysis and data visualization techniques, Euro 2020 data analytics aims to uncover insights that enhance understanding of the tournament dynamics. These insights contribute to strategic decision-making, performance evaluation, and predictive modeling in the context of Euro 2024 and beyond.
